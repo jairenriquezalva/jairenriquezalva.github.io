@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{uOVX:function(n,t,u){"use strict";u.r(t);u("q1tI");var e=u("Bl7J"),c=u("AeFk");t.default=function(){return Object(c.b)(e.a,null)}}}]);
+//# sourceMappingURL=component---src-pages-conocimientos-js-a286f0bbc32461df23d3.js.map
