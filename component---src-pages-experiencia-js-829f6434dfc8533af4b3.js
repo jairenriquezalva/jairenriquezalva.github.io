@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{VAOM:function(n,o,t){"use strict";t.r(o);t("q1tI");var u=t("Bl7J"),e=t("AeFk");o.default=function(){return Object(e.b)(u.a,null,"Hola mundo")}}}]);
-//# sourceMappingURL=component---src-pages-experiencia-js-829f6434dfc8533af4b3.js.map
